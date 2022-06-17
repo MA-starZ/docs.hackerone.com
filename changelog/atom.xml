@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.hackerone.com/changelog</id>
     <title>HackerOne Platform Changelog</title>
-    <updated>2022-06-17T12:27:34.863Z</updated>
+    <updated>2022-06-17T13:07:07.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>HackerOne</name>
@@ -20,7 +20,7 @@
         <title type="html"><![CDATA[May 2022]]></title>
         <id>https://docs.hackerone.com/changelog/2022/may</id>
         <link href="https://docs.hackerone.com/changelog/2022/may"/>
-        <updated>2022-05-01T00:00:00.000Z</updated>
+        <updated>2022-04-30T22:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="asset-based-credential-management" style="position:relative;"><a href="#asset-based-credential-management" aria-label="asset based credential management permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Asset-Based Credential Management</h3>
 <p>We've added the ability to <a href="/programs/asset-based-credential-management.html">manage credentials</a> by specific assets.</p>]]></content>
         <author>
@@ -32,7 +32,7 @@
         <title type="html"><![CDATA[March 2022]]></title>
         <id>https://docs.hackerone.com/changelog/2022/march</id>
         <link href="https://docs.hackerone.com/changelog/2022/march"/>
-        <updated>2022-03-01T00:00:00.000Z</updated>
+        <updated>2022-02-28T23:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="retesting-enhancement" style="position:relative;"><a href="#retesting-enhancement" aria-label="retesting enhancement permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Retesting Enhancement</h3>
 <p>The tester will now have 72 hours to complete retesting once a retest is claimed.</p>
 <h3 id="program-hacker-matching-improvement" style="position:relative;"><a href="#program-hacker-matching-improvement" aria-label="program hacker matching improvement permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Program Hacker Matching Improvement</h3>
@@ -77,7 +77,7 @@
         <title type="html"><![CDATA[January 2022]]></title>
         <id>https://docs.hackerone.com/changelog/2022/january</id>
         <link href="https://docs.hackerone.com/changelog/2022/january"/>
-        <updated>2022-01-01T00:00:00.000Z</updated>
+        <updated>2021-12-31T23:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="opportunity-discovery" style="position:relative;"><a href="#opportunity-discovery" aria-label="opportunity discovery permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Opportunity Discovery</h3>
 <p>The Opportunity discovery page provides a central place for hackers to discover bounty programs, vdps, pentests, and future earning openings, while also solving an inconsistent filtering experience.</p>]]></content>
         <author>
@@ -89,7 +89,7 @@
         <title type="html"><![CDATA[November 2021]]></title>
         <id>https://docs.hackerone.com/changelog/2021/november</id>
         <link href="https://docs.hackerone.com/changelog/2021/november"/>
-        <updated>2021-11-01T00:00:00.000Z</updated>
+        <updated>2021-10-31T23:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="submissions--bounty-dashboard" style="position:relative;"><a href="#submissions--bounty-dashboard" aria-label="submissions  bounty dashboard permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submissions &#x26; Bounty Dashboard</h3>
 <p>The <a href="/programs/submissions-bounty-dashboard.html">Submissions &#x26; Bounty Dashboard</a> shows data on all report submissions broken up by different metrics. Bounty programs will show the number of valid submissions for that category on the left, with bounties paid out for that category on the right. You can export all of your data at once as a PDF or by sections as a CSV file.</p>]]></content>
         <author>
@@ -101,7 +101,7 @@
         <title type="html"><![CDATA[September 2021]]></title>
         <id>https://docs.hackerone.com/changelog/2021/september</id>
         <link href="https://docs.hackerone.com/changelog/2021/september"/>
-        <updated>2021-09-01T00:00:00.000Z</updated>
+        <updated>2021-08-31T22:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="multiple-jira-integration" style="position:relative;"><a href="#multiple-jira-integration" aria-label="multiple jira integration permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Multiple Jira Integration</h3>
 <p>This feature is available for Enterprise programs only. If you want to integrate the same program to <a href="/programs/multiple-jira-integrations.html">multiple Jira instances</a>, you can follow all the steps for each integration.
 <span
@@ -165,7 +165,7 @@
         <title type="html"><![CDATA[August 2021]]></title>
         <id>https://docs.hackerone.com/changelog/2021/august</id>
         <link href="https://docs.hackerone.com/changelog/2021/august"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
+        <updated>2021-07-31T22:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="customer-homepage" style="position:relative;"><a href="#customer-homepage" aria-label="customer homepage permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Customer Homepage</h3>
 <p>The <a href="/programs/homepage.html">customer homepage</a> is the starting point for customers to see an overview of all programs and latest report activity and mentions in their organization. Quickly access the area that requires your attention, regardless of the program it's associated with.</p>
 <p><span
@@ -283,7 +283,7 @@
         <title type="html"><![CDATA[April 2021]]></title>
         <id>https://docs.hackerone.com/changelog/2021/april</id>
         <link href="https://docs.hackerone.com/changelog/2021/april"/>
-        <updated>2021-04-01T00:00:00.000Z</updated>
+        <updated>2021-03-31T22:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="program-overview" style="position:relative;"><a href="#program-overview" aria-label="program overview permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Program Overview</h3>
 <p>We launch the new Overview page of the program dashboard to provide an overarching view of important data and statuses regarding your program.</p>
 <p><span
@@ -426,7 +426,7 @@
         <title type="html"><![CDATA[March 2021]]></title>
         <id>https://docs.hackerone.com/changelog/2021/march</id>
         <link href="https://docs.hackerone.com/changelog/2021/march"/>
-        <updated>2021-03-01T00:00:00.000Z</updated>
+        <updated>2021-02-28T23:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="custom-field-changes-tracked-in-the-report-timeline" style="position:relative;"><a href="#custom-field-changes-tracked-in-the-report-timeline" aria-label="custom field changes tracked in the report timeline permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Custom Field Changes Tracked in the Report Timeline</h3>
 <p>Any changes to <a href="/programs/custom-fields.html">custom fields</a> will now be shown in the report timeline. This enables programs to properly keep track of all changes to their custom fields.</p>
 <p><span
@@ -463,7 +463,7 @@
         <title type="html"><![CDATA[February 2021]]></title>
         <id>https://docs.hackerone.com/changelog/2021/february</id>
         <link href="https://docs.hackerone.com/changelog/2021/february"/>
-        <updated>2021-02-01T00:00:00.000Z</updated>
+        <updated>2021-01-31T23:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="azure-devops-integration" style="position:relative;"><a href="#azure-devops-integration" aria-label="azure devops integration permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Azure DevOps Integration</h3>
 <p>Enterprise programs can now integrate HackerOne with <a href="/programs/azure-devops-integration.html">Azure DevOps</a> to synchronize their HackerOne events to Azure DevOps and vice versa.</p>
 <h3 id="support-for-multiple-integrations" style="position:relative;"><a href="#support-for-multiple-integrations" aria-label="support for multiple integrations permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Support for Multiple Integrations</h3>
@@ -606,7 +606,7 @@
         <title type="html"><![CDATA[January 2021]]></title>
         <id>https://docs.hackerone.com/changelog/2021/january</id>
         <link href="https://docs.hackerone.com/changelog/2021/january"/>
-        <updated>2021-01-01T00:00:00.000Z</updated>
+        <updated>2020-12-31T23:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="retesting-available-by-default" style="position:relative;"><a href="#retesting-available-by-default" aria-label="retesting available by default permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Retesting Available by Default</h3>
 <p>All Professional and Enterprise programs can now participate in retesting as retests are now included by default rather than as a separate add-on. For Response programs using HackerOne's triage services, the triage team will retest the vulnerabilities to verify the fixes instead of hackers.</p>
 <p>If you're currently running a Bounty or Challenge program, awards for retests will be paid from your bounty pool. If you're using the consumption tier to pay for your bounties, payments for retests will count towards the tier instead.</p>]]></content>
